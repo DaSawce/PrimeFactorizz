@@ -3,6 +3,7 @@ import java.util.*;
 public class PrimeFactorizz {
     public static void main(String[] args)
     {
+        //sometjomg takle input and stuff
         Scanner scan = new Scanner(System.in);
         
         int num;
